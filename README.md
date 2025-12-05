@@ -41,6 +41,7 @@ Aplikasi Flutter berbasis AI untuk membantu memasak, membuat rekomendasi resep, 
 ```bash
 git clone https://github.com/username/ai-cooking-helper.git
 cd ai-cooking-helper
+```
 
 ## 🚀 Cara Menjalankan Project
 
@@ -49,9 +50,29 @@ cd ai-cooking-helper
 flutter pub get
 ```
 
-### 3️⃣ Jalankan Aplikasi
+### 3️⃣ Setup API Key
 ```bash
-lib/config/api_keys.dart
+lib/utils/ai_service.dart
+```
+
+Ganti:
+```bash
+const String API_KEY = 'API KEY';
+```
+
+### 4️⃣ Jalankan Aplikasi
+```bash
+flutter run
+```
+
+### 🧠 Contoh Output AI
+Input:
+```bash
+Bahan: telur, kecap, bawang putih
+```
+
+Output:
+```bash
 ```
 
 ### 📁 Struktur Folder
