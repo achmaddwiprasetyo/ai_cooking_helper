@@ -92,7 +92,7 @@ lib/
 │   └── home_page.dart            
 └── fragment/
     ├── generate_image.dart       
-    └── generate_image.dart      
+    └── generate_text.dart      
 ```
 
 ---
