@@ -9,34 +9,43 @@ _Aplikasi Flutter berbasis AI untuk membantu memasak, merekomendasikan resep, da
 
 ---
 
-## 📱 Deskripsi
-**Password Management** adalah aplikasi penyimpanan password berbasis **Flutter** dengan dukungan **SQLite lokal (sqflite & sqflite_common_ffi)**.  
-Aplikasi ini memungkinkan kamu menyimpan akun, username, dan password secara **aman & offline**, dengan tampilan **Material 3 modern** dan **dark mode otomatis**.
+# 🍳 AI Cooking Helper  
+Aplikasi Flutter berbasis AI untuk membantu memasak, membuat rekomendasi resep, dan mengelola bahan dapur.
+
+---
+
+## 🚀 Deskripsi
+**AI Cooking Helper** adalah aplikasi Flutter yang memanfaatkan teknologi AI (Gemini / OpenAI / LLM lain) untuk memberikan rekomendasi resep berdasarkan bahan yang tersedia. Pengguna cukup memasukkan daftar bahan atau mengunggah foto, dan AI akan menghasilkan resep lengkap beserta langkah-langkah memasaknya.
 
 ---
 
 ## ✨ Fitur Utama
-✅ CRUD Lengkap (Tambah, Tampilkan, Ubah, Hapus)  
-✅ SQLite Lokal (offline, cepat, aman)  
-✅ Realtime Search (pencarian langsung)  
-✅ Kategori akun (Email, Sosial, Bank, Game, Lainnya)  
-✅ Material 3 UI + Grid Responsif  
-✅ Dark Mode Otomatis  
-✅ Footer dengan Copyright  
-✅ Kompatibel di **Android, Linux, Windows, macOS**
+- 🔍 **Rekomendasi Resep Otomatis** berdasarkan daftar bahan.
+- 📸 **Deteksi Bahan dari Foto** (opsional).
+- 🧾 **Generator Resep Instan** berdasarkan prompt pengguna.
+- 🥫 **Manajemen Bahan Dapur** (stok, expired, kategori).
+- 🎨 **UI Modern** dengan Material 3, Dark/Light mode.
 
 ---
 
-## 🏗️ Teknologi yang Digunakan
-| Komponen | Teknologi |
-|-----------|------------|
-| Framework | [Flutter](https://flutter.dev) |
-| Database | [SQFLite](https://pub.dev/packages/sqflite), [SQFLite Common FFI](https://pub.dev/packages/sqflite_common_ffi) |
-| Bahasa | Dart |
-| UI | Material Design 3 |
-| IDE | VSCode / Android Studio |
+## 🛠️ Teknologi yang Digunakan
+| Teknologi | Fungsi |
+|----------|--------|
+| **Flutter 3.x** | Framework UI |
+| **Dart** | Logika aplikasi |
+| **Gemini / OpenAI API** | AI untuk resep & analisis |
+| **Provider / Riverpod** | State management |
+| **Dio / HTTP** | API request |
+| **Image Picker** | Upload gambar |
 
 ---
+
+## 📦 Instalasi & Setup
+
+### 1️⃣ Clone Repository
+```bash
+git clone https://github.com/username/ai-cooking-helper.git
+cd ai-cooking-helper
 
 ## 🚀 Cara Menjalankan Project
 
