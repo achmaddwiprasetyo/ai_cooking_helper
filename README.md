@@ -1,4 +1,4 @@
-# UTS Pemograman Bergerak 
+# UTS Pemograman Bergerak Kelompok 10
 ## 🍳 AI Cooking Helper  
 Aplikasi Flutter berbasis AI untuk membantu memasak, membuat rekomendasi resep, dan mengelola bahan dapur.
 
