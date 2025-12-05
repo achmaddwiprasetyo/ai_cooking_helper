@@ -1,16 +1,11 @@
 # UTS Pemograman Bergerak 
-## AI Cooking Helper
-_Aplikasi Flutter berbasis AI untuk membantu memasak, merekomendasikan resep, dan mengelola bahan dapur.
+## 🍳 AI Cooking Helper  
+Aplikasi Flutter berbasis AI untuk membantu memasak, membuat rekomendasi resep, dan mengelola bahan dapur.
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20Linux%20%7C%20Windows-lightgrey)
 ![SQLite](https://img.shields.io/badge/Database-SQFLite-blueviolet)
-
----
-
-# 🍳 AI Cooking Helper  
-Aplikasi Flutter berbasis AI untuk membantu memasak, membuat rekomendasi resep, dan mengelola bahan dapur.
 
 ---
 
