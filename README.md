@@ -99,10 +99,10 @@ lib/
 
 ### 💡 Pengembang
 Kelompok 10:<br>
-1. Achmad Dwi Prasetyo
-2. Jovita Kusuma
-3. Jeki Hendrian
-4. Harry Kusuma Bhakti
+1. Achmad Dwi Prasetyo - 220401010168
+2. Jovita Kusuma - 220401010270
+3. Jeki Hendrian - 220401010191
+4. Harry Kusuma Bhakti - 240401020171
 
 🎓 Universitas Siber Asia - S1 PJJ Informatika 2026
 
