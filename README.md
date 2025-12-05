@@ -57,7 +57,7 @@ lib/utils/ai_service.dart
 
 Ganti:
 ```bash
-const String API_KEY = 'API KEY';
+const String API_KEY = 'API KEY';        # API KEY ganti dengan API KEY dari AI Gemini
 ```
 
 ### 4️⃣ Jalankan Aplikasi
