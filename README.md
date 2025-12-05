@@ -66,7 +66,7 @@ const String API_KEY = 'API KEY';        # API KEY ganti dengan API KEY dari AI 
 ```bash
 flutter run
 ```
-
+---
 
 ### 🧠 Contoh Output AI
 Input:
