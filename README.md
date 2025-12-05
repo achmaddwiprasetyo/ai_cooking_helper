@@ -67,34 +67,42 @@ flutter run
 
 ### 🧠 Contoh Output AI
 Input:
-```bash
+```makefile
 Bahan: telur, kecap, bawang putih
 ```
 
 Output:
-```bash
+```markdown
+🍳 Resep: Telur Kecap Sederhana 
+👨‍🍳 Langkah:
+1. Tumis bawang putih hingga harum
+2. Masukkan telur lalu orak-arik
+3. Tambahkan kecap dan sedikit air
+4. Masak hingga meresap
 ```
 
 ### 📁 Struktur Folder
 
 ```bash
 lib/
-├── main.dart                     # Entry point aplikasi
-├── database/
-│   └── database_helper.dart      # Inisialisasi dan fungsi CRUD SQLite
-├── models/
-│   └── password_model.dart       # Model data password
-└── screens/
-    ├── home.dart            # Halaman utama (tampilan data + pencarian)
-    ├── add_password.dart    # Halaman tambah data
-    └── edit_password.dart       # Halaman edit data
+├── main.dart                     
+├── utils/
+│   └── ai_service.dart          
+├── page/
+│   └── home_page.dart            
+└── fragment/
+    ├── generate_image.dart       
+    └── generate_image.dart      
 ```
 
 ---
 
 ### 💡 Pengembang
-
-👤 Achmad Dwi Prasetyo<br>
+Kelompok 10:<br>
+1. Achmad Dwi Prasetyo
+2. Jovita Kusuma
+3. Jeki Hendrian
+4. Harry Kusuma Bhakti <br>
 🎓 Universitas Siber Asia - S1 PJJ Informatika 2026
 
 ---
