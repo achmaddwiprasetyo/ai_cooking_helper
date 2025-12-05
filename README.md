@@ -19,7 +19,6 @@ Aplikasi Flutter berbasis AI untuk membantu memasak, membuat rekomendasi resep, 
 - 📸 **Deteksi Bahan dari Foto** (opsional).
 - 🧾 **Generator Resep Instan** berdasarkan prompt pengguna.
 - 🥫 **Manajemen Bahan Dapur** (stok, expired, kategori).
-- 🎨 **UI Modern** dengan Material 3, Dark/Light mode.
 
 ---
 
