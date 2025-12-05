@@ -111,6 +111,6 @@ Kelompok 10:<br>
 ### ⚖️ Lisensi
 
 MIT License © 2025<br>
-Created by Achmad Dwi Prasetyo
+Created by Kelompok 10
 
 
