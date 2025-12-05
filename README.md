@@ -44,12 +44,6 @@ cd ai-cooking-helper
 
 ## 🚀 Cara Menjalankan Project
 
-### 1️⃣ Clone Repository
-```bash
-git clone https://github.com/achmaddwiprasetyo/tugas1_pemograman_bergerak
-cd tugas1_pemograman_bergerak
-```
-
 ### 2️⃣ Install Dependency
 ```bash
 flutter pub get
