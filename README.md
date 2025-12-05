@@ -42,12 +42,14 @@ git clone https://github.com/username/ai-cooking-helper.git
 cd ai-cooking-helper
 ```
 
+
 ## 🚀 Cara Menjalankan Project
 
 ### 2️⃣ Install Dependency
 ```bash
 flutter pub get
 ```
+
 
 ### 3️⃣ Setup API Key
 ```bash
@@ -59,10 +61,12 @@ Ganti:
 const String API_KEY = 'API KEY';        # API KEY ganti dengan API KEY dari AI Gemini
 ```
 
+
 ### 4️⃣ Jalankan Aplikasi
 ```bash
 flutter run
 ```
+
 
 ### 🧠 Contoh Output AI
 Input:
@@ -80,6 +84,7 @@ Output:
 4. Masak hingga meresap
 ```
 
+
 ### 📁 Struktur Folder
 
 ```bash
@@ -93,6 +98,7 @@ lib/
     ├── generate_image.dart       
     └── generate_text.dart      
 ```
+
 
 ---
 
