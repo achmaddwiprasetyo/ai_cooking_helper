@@ -1,6 +1,6 @@
 # UTS Pemograman Bergerak 
 ## AI Cooking Helper
-_Aplikasi AI Cooking Helper dengan AI Gemini
+_Aplikasi Flutter berbasis AI untuk membantu memasak, merekomendasikan resep, dan mengelola bahan dapur.
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter)
 ![License](https://img.shields.io/badge/License-MIT-green)
