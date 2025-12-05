@@ -102,7 +102,8 @@ Kelompok 10:<br>
 1. Achmad Dwi Prasetyo
 2. Jovita Kusuma
 3. Jeki Hendrian
-4. Harry Kusuma Bhakti <br>
+4. Harry Kusuma Bhakti
+
 🎓 Universitas Siber Asia - S1 PJJ Informatika 2026
 
 ---
@@ -110,6 +111,6 @@ Kelompok 10:<br>
 ### ⚖️ Lisensi
 
 MIT License © 2025<br>
-Created by Achmad Dwi Prasetyo - 220401010168
+Created by Achmad Dwi Prasetyo
 
 
