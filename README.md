@@ -51,7 +51,7 @@ flutter pub get
 
 ### 3️⃣ Jalankan Aplikasi
 ```bash
-flutter run
+lib/config/api_keys.dart
 ```
 
 ### 📁 Struktur Folder
