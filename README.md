@@ -109,6 +109,8 @@ Kelompok 10:<br>
 3. Jeki Hendrian - 220401010191
 4. Harry Kusuma Bhakti - 240401020171
 
+
+Dosen : Abdul Azzam Ajhari, S.Kom., M.Kom.
 🎓 Universitas Siber Asia - S1 PJJ Informatika 2026
 
 ---
