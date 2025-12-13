@@ -110,7 +110,7 @@ Kelompok 10:<br>
 4. Harry Kusuma Bhakti - 240401020171
 
 
-Dosen : Abdul Azzam Ajhari, S.Kom., M.Kom.
+Dosen : Abdul Azzam Ajhari, S.Kom., M.Kom. <br>
 🎓 Universitas Siber Asia - S1 PJJ Informatika 2026
 
 ---
